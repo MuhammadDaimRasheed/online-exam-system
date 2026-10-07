@@ -18,3 +18,6 @@ pytest --cov=exam_system --cov-report=term-missing
 - `tests/` - unit tests (pytest)
 - Run tests using: pytest
 Check coverage using pytest-cov
+   ## Future Work
+   - Add more unit tests
+   - Add input validation
