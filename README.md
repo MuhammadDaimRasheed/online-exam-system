@@ -17,3 +17,4 @@ pytest --cov=exam_system --cov-report=term-missing
 - `exam_system/storage.py` - JSON persistence
 - `tests/` - unit tests (pytest)
 - Run tests using: pytest
+Check coverage using pytest-cov
